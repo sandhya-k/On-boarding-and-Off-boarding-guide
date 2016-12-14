@@ -39,3 +39,5 @@
 - [ ] Helpful tips about the newsroom and processes (ex: these can include a number of things from meetings that one should attend to tips about CMS glitches to what's the best way to set up a meeting)
 - [ ] Tips on the city that the newsroom is in (ex: nearby lunch places, buses, trains, etc.) 
 - [ ] If a person is working remote: how do you support their needs? Talk through how they can be included and how being remote is different than being in the newsroom
+
+You can fork this checklist on [Github](https://github.com/sandhya-k/On-boarding-and-Off-boarding-guide) and make your own.

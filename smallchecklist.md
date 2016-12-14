@@ -33,3 +33,5 @@ I included a similar checklist in chapter two of this guide, but here's a more s
 - [ ] Address FOIs or record requests that are ongoing and need to be followed up on. A spreadsheet tracking this information will be helpful to send to reporters/editors on the team and include in final documentation before leavings
 - [ ] Rolodex: Update contact lists and notes on any sources that the next person should know about
 - [ ] Exit interview with the newsroom or people you often work with: overview of the job (can be like office hours where people can stop by and ask questions about the position/stories)
+
+You can fork this checklist on [Github](https://github.com/sandhya-k/On-boarding-and-Off-boarding-guide) and make your own.
