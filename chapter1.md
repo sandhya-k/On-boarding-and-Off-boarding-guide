@@ -8,7 +8,7 @@ Newsrooms don't do a very good job with documentation. We need better examples o
 
 -------
 
-*Note: Some of this background comes from a piece I had previously [published] (https://medium.com/@sandhya__k/onboarding-5d0757bdb34d#.dov049or3) in June of 2016*
+*Note: Some of this background comes from a piece I had previously [published](https://medium.com/@sandhya__k/onboarding-5d0757bdb34d#.dov049or3) in June of 2016*
 
 As a [Knight-Mozilla fellow](https://opennews.org/what/fellowships/2016meet/), I wanted to do some type of research during my fellowship that could benefit the news community. During my 10-month fellowship in Berlin in 2016, I've spent about eight months researching, collecting data and interviewing reporters, editors, managers and directors about their on-boarding and off-boarding processes. 
 
