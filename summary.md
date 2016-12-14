@@ -21,7 +21,7 @@
 	* [Keeping people motivated to do documentation and implementation](mediummotivate.md)
 	* [Simple checklist of things to include in your on-boarding or off-boarding](mediumchecklist.md)
 * [Large Newsroom](chapter6.md)
-    * [How to deal with these processes with a large team within a large newsroom](largeprocess.md)
+    * [How to deal with these processes with a large team within a large newsroom](largeprocesses.md)
     * [Keeping people motivated to do documentation and implementation](motivatelarge.md)
     * [Simple checklist of things to include in your on-boarding or off-boarding](checklistlarge.md)
 * [Acknowledgements](acknowledgements.md)
