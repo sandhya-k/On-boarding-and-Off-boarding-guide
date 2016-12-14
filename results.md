@@ -28,48 +28,48 @@ They are as follows:
 Here's a list of some of the newsrooms that responded and their categories:
 
 **Small**:
-KPCC- Southern California
-Center for Public Integrity 
-The Marshall Project
-Myanmar Times
-De Correspondent
-The Trace
-India Spend
+* KPCC- Southern California
+* Center for Public Integrity 
+* The Marshall Project
+* Myanmar Times
+* De Correspondent
+* The Trace
+* India Spend
 
 
 **Medium**:
-St. Paul Pioneer Press
-Tampa Bay Times
-The Palm Beach Post
-Foreign Policy Magazine 
-ProPublica
-Texas Tribune
-Baltimore Sun
-Frontline 
-Intercept
-Berliner Morgenpost
-Reveal 
+* St. Paul Pioneer Press
+* Tampa Bay Times
+* The Palm Beach Post
+* Foreign Policy Magazine 
+* ProPublica
+* Texas Tribune
+* Baltimore Sun
+* Frontline 
+* Intercept
+* Berliner Morgenpost
+* Reveal 
 
 **Large**:
-The Associated Press
-The Huffington Post
-The New York Times
-Financial Times (FT) 
-WeltN24
-AFP
-CNN
-NPR
-The Wall Street Journal
-USA Today
-Globe and Mail
-The Guardian
-BBC
-El Mundo
-La Nación
-Al Jazeera
-The Washington Post
-Los Angeles Times
-Vox
+* The Associated Press
+* The Huffington Post
+* The New York Times
+* Financial Times (FT) 
+* WeltN24
+* AFP
+* CNN
+* NPR
+* The Wall Street Journal
+* USA Today
+* Globe and Mail
+* The Guardian
+* BBC
+* El Mundo
+* La Nación
+* Al Jazeera
+* The Washington Post
+* Los Angeles Times
+* Vox
 
 ---
 

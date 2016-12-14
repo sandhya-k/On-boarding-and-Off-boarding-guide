@@ -15,14 +15,14 @@ A medium newsroom is 51 to 250 employees.
 Here's a list of some of the medium newsrooms that responded:
 
 **Medium**:
-St. Paul Pioneer Press
-Tampa Bay Times
-The Palm Beach Post
-Foreign Policy Magazine 
-ProPublica
-Texas Tribune
-Baltimore Sun
-Frontline 
-Intercept
-Berliner Morgenpost
-Reveal
+* St. Paul Pioneer Press
+* Tampa Bay Times
+* The Palm Beach Post
+* Foreign Policy Magazine 
+* ProPublica
+* Texas Tribune
+* Baltimore Sun
+* Frontline 
+* Intercept
+* Berliner Morgenpost
+* Reveal

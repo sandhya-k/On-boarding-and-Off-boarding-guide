@@ -15,7 +15,7 @@ A small newsroom is 50 or fewer employees.
 Here's a list of some of the small newsrooms that responded:
 
 **Small**:
-KPCC- Southern California
-Center for Public Integrity 
-De Correspondent
-The Trace
+* KPCC- Southern California
+* Center for Public Integrity 
+* De Correspondent
+* The Trace

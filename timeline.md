@@ -13,14 +13,14 @@ There were roughly 12 people in the room.
 
 **Here's the breakdown**:
 
-Beat reporters: 1 
-software engineer: 1 
-Data reporters: 3
-News apps developers: 1
-Editors: 2
-Director: 2 
-Designer: 1
-Project Managers:1 
+* Beat reporters: 1 
+* Software engineer: 1 
+* Data reporters: 3
+* News apps developers: 1
+* Editors: 2
+* Director: 2 
+* Designer: 1
+* Project Managers:1 
 
 **Here are the questions I posed in the session**: 
 

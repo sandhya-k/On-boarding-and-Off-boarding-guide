@@ -15,22 +15,22 @@ A large newsroom is more than 250 employees.
 Here's a list of some of the large newsrooms that responded:
 
 **Large**:
-The Associated Press
-The New York Times
-The Huffington Post
-Financial Times (FT) 
-WeltN24
-AFP
-CNN
-NPR
-The Wall Street Journal
-USA Today
-Globe and Mail
-The Guardian
-BBC
-El Mundo
-La Nación
-Al Jazeera
-The Washington Post
-Los Angeles Times
-Vox
+* The Associated Press
+* The New York Times
+* The Huffington Post
+* Financial Times (FT) 
+* WeltN24
+* AFP
+* CNN
+* NPR
+* The Wall Street Journal
+* USA Today
+* Globe and Mail
+* The Guardian
+* BBC
+* El Mundo
+* La Nación
+* Al Jazeera
+* The Washington Post
+* Los Angeles Times
+* Vox
