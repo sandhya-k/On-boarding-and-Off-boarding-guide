@@ -15,7 +15,7 @@
     * [Full survey results (including breakdown of newsrooms,key takeaways,next steps)](results.md)
 * [Small Newsroom](chapter4.md)
     * [Small Newsroom Challenges](smallchallenges.md)
-    * [How to deal with these processes with a 1 person or two person team within a small newsroom  and implementing these ideas](smallmotivation.md)
+    * [How to deal with these processes with a one person or two person team within a small newsroom  and implementing these ideas](smallmotivation.md)
     * [Small Newsroom Checklist](smallchecklist.md)
 * [Medium Newsroom](chapter5.md)
     * [How to deal with these processes with a medium sized team in a medium sized newsroom](mediumprocess.md)
