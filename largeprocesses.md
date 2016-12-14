@@ -1,0 +1,17 @@
+#How to deal with these processes for a large team 
+
+The biggest challenge for bigger newsrooms and especially for those with large teams is managing documentation when there is a lot of movement in and out of the newsroom. For reporters, this means not being the only one or two people on the team pushing for documentation. For editors, this means handling the updates of the documentation, especially when a new person starts and leaves the newsroom. 
+
+The solution? *Note: it's the same as medium-sized newsrooms*
+
+Having a newsroom wiki with all the documentation for on-boarding and off-boarding. It's a central place for everyone's documentation. If the editors focus on writing up the CMS docs and other common newsroom-wide documentation, the individual notes for teams can be added later. A lot of the bigger issues on the teams that I spoke to actually involved the bigger newsroom-wide processes. So if you target these processes first and make their documentation really thorough, it can be a motivation for the newsroom to write their own documentation. 
+
+Of the teams that had documentation, they were data/news applications teams and had their own documentation for their projects with commented out code on Github. This could be added to the newsroom wiki so people know that it exists and is showcased so other teams can be aware of what other parts of the newsroom are doing. This can help with understanding the work that the data and news applications teams do too, because non-technical people can learn (if they are interested) in what the lines of code mean. This can also serve as motivation for the entire newsroom to be more transparent and showing their work so others can learn from them.
+
+-------
+
+With bigger newsrooms, there's also an issue of people forgetting who does what and understanding people's roles on teams. A solution is to actually have documentation of what everyone's role in the newsroom is (and not just copying and pasting the vague job description into what they do). The titles in large newsrooms are often hard to understand and it would help if people actually knew what people do, instead of just lumping a group of people into a similar role of "editor" or "reporter." If there is a wiki with everyone's names, roles and pictures, this can help tremendously, especially when email chains get started and bigger meetings are scheduled. 
+
+A few people I spoke to in larger newsrooms mentioned that they had "met" everyone in the newsroom on their first day. We've all been there. It's your first day and your boss quickly takes you around to each area of the newsroom and says who is who and you shake hands with them. Then one day, months later, you have to talk to that person, but you can't remember where they sit or what they look like. This guide to "who is who" in the newsroom can help solve this problem. The key to this is getting people to actually read it and better yet, actually write what they do in their job instead of someone else writing the blurb of what they *think* the person in a certain role does. 
+
+With constant movement throughout the newsroom, it can be hard to make sure that the documentation is always up to date. It's just a mentality that has to be reinforced among editors and managers to think about their documentation. A solution one editor I spoke to mentioned: try to write down some notes at the end of the week and then thoroughly document these notes every two weeks on Friday evening.

@@ -16,22 +16,12 @@
     * [What I found in my research](smallchallenges.md)
     * [How to deal with these processes with a 1 person or two person team within a small newsroom  and implementing these ideas](smallmotivation.md)
     * [Simple checklist of things to include in your on-boarding or off-boarding](smallchecklist.md)
-
-    
-    
-    
-    
-    
-* [Medium Newsroom](medium-newsroom.md)
-    * What I found in my research
-        * How to deal with these processes with a medium sized team in a medium sized newsroom
-        * Keeping people motivated to do documentation and implementation
-        * Simple checklist of things to include in your on-boarding or off-boarding
-* [Large Newsroom](large-newsroom.md)
-    * What I found in my research
-    * How to deal with these processes with a large team within a large newsroom
-    * Keeping people motivated to do documentation and implementation
-    * Simple checklist of things to include in your on-boarding or off-boarding
+* [Medium Newsroom](chapter4.md)
+	* [How to deal with these processes with a medium sized team in a medium sized newsroom](mediumprocess.md)
+	* [Keeping people motivated to do documentation and implementation](mediummotivate.md)
+	* [Simple checklist of things to include in your on-boarding or off-boarding](mediumchecklist.md)
+* [Large Newsroom](chapter6.md)
+    * [How to deal with these processes with a large team within a large newsroom](largeprocess.md)
+    * [Keeping people motivated to do documentation and implementation](motivatelarge.md)
+    * [Simple checklist of things to include in your on-boarding or off-boarding](checklistlarge.md)
 * [Acknowledgements](acknowledgements.md)
-    * Note from Sandhya
-
