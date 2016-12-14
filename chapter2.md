@@ -41,7 +41,7 @@ For developers/graphics reporters/data reporters, this process can include docum
 
 - People should be documenting their work as they go, so things don't pile up and forgotten.
 
-- If you're working on a bigger project, have someone who knows what's going on, so if you fall sick or are out of the office, they can pick up where you left off. Some people refer to this as the "bus factor" (in other words, document your projects well enough in case you get by a bus). 
+- If you're working on a bigger project, have someone who knows what's going on, so if you fall sick or are out of the office, they can pick up where you left off. Some people refer to this as the "bus factor" (in other words, document your projects well enough in case you get hit by a bus). 
 
 - If you have a question, write it down. When you learn the answer to that question, write that down too. 
 

@@ -26,4 +26,3 @@
     * [Simple checklist of things to include in your on-boarding or off-boarding](checklistlarge.md)
 * [Acknowledgements](acknowledgements.md)
 * [License](LICENSE.md)
-

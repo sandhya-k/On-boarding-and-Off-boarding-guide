@@ -9,7 +9,7 @@ I included a similar checklist in chapter two of this guide, but here's a more s
 - [ ] Expectations for the job (what the previous person did and/or what the newsroom and team expects the person to work on. Examples include annual projects, attending certain meetings)
 - [ ] Order of how stories and/or pitches get filed and how they go through the editing process (ex: points of contact, timeline for stories) 
 - [ ] How to use the CMS and other software in the newsroom (there would be documents with screenshots explaining what different buttons in the CMS or software are)
-- [ ] List of logins for social media, Github, servers and how to activate certain accounts (ex: PGP, set up email) 
+- [ ] List of logins for social media, version control, servers and how to activate certain accounts (ex: PGP, set up email) 
 - [ ] For graphics/news apps folks: how to set up development environment, list of common tools used, basics of how to document your projects
 - [ ] Meetings with team members or people you might work with to learn about their roles on the team or in the newsroom
 - [ ] Spend some time on the company website looking through what the company does

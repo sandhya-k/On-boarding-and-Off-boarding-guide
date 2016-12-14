@@ -17,10 +17,11 @@ Knight-Mozilla OpenNews fellow Sandhya wants to hear about how your newsroom is 
  1. What is your newsroom policy for off-boarding or on-boarding?
 
  2. In terms of the policy: Is documentation done monthly, weekly, or daily or is it mostly done on a project-by-project basis? 
- 		- monthly
-		- weekly
-		- daily
-		- project by project basis
+
+	- monthly
+	- weekly
+	- daily
+	- project by project basis
 
 4. What about newsroom sources? Do you have a policy on what a reporter can take with them?
 
@@ -50,8 +51,8 @@ Knight-Mozilla OpenNews fellow Sandhya wants to hear about how your newsroom is 
 
 I sent out the survey on April 22, 2016. I closed the survey on September 12, 2016. I heard from 221 newsrooms and 247 unique individuals. A total of 289 people filled out the survey. I conducted 101 interviews with individuals who filled out the survey. Thirty of them were over Skype or over the phone. The other 71 were email. 
 
-At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: Journalists of Color & News Nerdery and then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 20 newsrooms and then posted it several times on Twitter. 
+At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: [Journalists of Color](http://journalistsofcolor.us/) & [News Nerdery](http://newsnerdery.org/) and then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 20 newsrooms and then posted it several times on Twitter. 
 
 In July, I talked to Elite Truong from Poynter about the research I was doing and she wrote up a [piece](http://www.poynter.org/2016/why-journalists-need-to-report-on-how-they-work/420138/) on my initial findings. 
 
-*More details on the survey results are in Chapter three*
+``*More details on the survey results are in Chapter three*``
