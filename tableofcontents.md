@@ -1,8 +1,7 @@
-# Summary
+# Table of Contents
 
 ## What's in this guide
 * [Title page](README.md)
-* [Table of Contents](tableofcontents.md)
 * [Why I did this research?](chapter1.md)
     * [Overview of background and why I did this research](overview.md)
     * [Questions asked in the survey and timeframe and overview of process](questions.md)
