@@ -13,7 +13,7 @@ A special thanks to:
 - Dan Zajdband: for catching all the things I didn't catch in edits 
 - And all of the 2016 OpenNews fellows who are so awesome: Nicky Case, Pietro Passarelli, Lisa Charlotte Rost, Martin Shelton, Dan Zajdband, and Christine Zhang
 
-And you, for taking the time to read through this guide and thinking of new ways to deal with the problems we face with on-boarding and off-boarding in newsrooms.
+And you: for taking the time to read through this guide and thinking of new ways to deal with the problems we face with on-boarding and off-boarding in newsrooms.
 
 
 ##About Sandhya 

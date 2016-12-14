@@ -1,6 +1,6 @@
 #Chapter 2
 
-##What is on-boarding and off-boarding? 
+##What is On-boarding and Off-boarding? 
  
 On-boarding is how you get new team members up to speed with what the team is working on and what happens in the position. Off-boarding specifically deals with the documentation that one writes up before they leave a job and can help a new person on the team with understanding the ins and outs of their job. There are two checklists included here which include general practices for these processes. Please note: these processes will differ by size of the newsroom. I've broken this Gitbook into chapters, so you can find the chapter related specifically to the size of your newsroom (small, medium, large).  
 
@@ -37,7 +37,7 @@ For reporters working on longer term projects, this process can include:  docume
 
 For developers/graphics reporters/data reporters, this process can include documentation of the data analysis and code (commented out), the process for filing/copy editing a graphic or a news app, questions or known issues for the project and general notes about the job. It's also helpful to have all the databases in one place (on a server or on Github). Similar to those working on longer-term projects, it might also be helpful to include notes on the retrospective of each project. Questions include: What went well in the project? What were some issues? What are some outstanding questions? What lessons did we learn? What are some opportunities for improvement?
 
-##**A few things to note about both processes:**
+##A Few Things to Note About Both Processes:
 
 - People should be documenting their work as they go, so things don't pile up and forgotten.
 

@@ -1,4 +1,4 @@
-#Small newsroom challenges
+#Small Newsroom Challenges
 
 I chatted with [Adam Schweigert,](https://twitter.com/aschweig) who is the Senior Director of Product and Technology at the Institute for Nonprofit News (INN). INN has by far one of the most comprehensive processes for documentation. Their documents are located [here](https://github.com/INN/docs) and are also linked to in the resources portion of [chapter two](links.md).
 
@@ -8,4 +8,4 @@ Schweigert noted that he'd like to do more documentation days where they have on
 
 In some cases, it can be easier to foster this mentality, since the teams are so small and can really benefit from documentation in some ways more than bigger newsrooms. For example, if one person in a small newsroom is the gatekeeper of newsroom knowledge and they leave, the newsroom is back to square one. Bigger newsrooms tend to have a little bit more documentation (for example, how to use the CMS, editing process timeline) because they typically have day-long or half-day trainings for new people. For small newsrooms, these trainings are often just one person teaching another person.
 
-In general, the biggest takeaway from a team like INN, is that documentation can be done in a small newsroom and it can be very useful. It can live in a newsroom wiki or a Github repository like INN's does. Schweigert also noted that more newsrooms and teams should share their documentation because there is always a lot we can learn from others' processes. A good way he suggested of getting started with it is thinking of documentation as another product. If you make it a priority and not just an add on thing that would be nice and ideal if everyone did it, it can be very useful in the long run.
+In general, the biggest takeaway from a team like INN is that documentation can be done in a small newsroom and it can be very useful. It can live in a newsroom wiki or a Github repository like INN's does. Schweigert also noted that more newsrooms and teams should share their documentation because there is always a lot we can learn from others' processes. A good way he suggested of getting started with it is thinking of documentation as another product. If you make it a priority and not just an add on thing that would be nice and ideal if everyone did it, it can be very useful in the long run.

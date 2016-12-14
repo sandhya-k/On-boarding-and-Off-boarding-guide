@@ -1,4 +1,4 @@
-#How to deal with these processes for a small team and implement these ideas
+#How to deal with these Processes for a Small Team and Implement these Ideas
 
 No matter what size the team is, motivation to actually start thinking about these processes is really hard to start as a movement. One way of getting people motivated is to show them other people's documentation, (such as INN) and think about all the things in your job that you repeat and do on a daily basis. If you tell people they can save time in the long run if they just spend one or two days really thinking through what documentation would be helpful for the newsroom to have, it can also be a motivation. 
 

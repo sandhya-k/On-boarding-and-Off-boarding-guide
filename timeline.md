@@ -1,10 +1,12 @@
-#Timeline and overview of process
+#Timeline and Overview of Process
 
 I sent out the survey on April 22, 2016. I closed the survey on September 12, 2016. As of October 31, I’ve heard from 221 newsrooms and 247 unique individuals. A total of 289 people filled out the survey, which contained nine main questions and four “if-then” follow-up questions. I conducted 101 interviews with individuals who filled out the survey. Thirty of them were over Skype or over the phone. The other 71 were email.  
 
-At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: [Journalists of Color](http://journalistsofcolor.us/) & [News Nerdery](http://newsnerdery.org/) and then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 35 newsrooms and then posted it on Twitter and Facebook. I also talked about it on the [OpenNews community calls](https://opennews.org/what/community/calls/) on Thursdays.
+At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: [Journalists of Color](http://journalistsofcolor.us/) & [News Nerdery](http://newsnerdery.org/). Then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 35 newsrooms and then posted it on Twitter and Facebook. I also talked about it on the [OpenNews community calls](https://opennews.org/what/community/calls/) on Thursdays.
 
 In July, I talked to Elite Truong from Poynter about the research I was doing and she wrote up a [piece](http://www.poynter.org/2016/why-journalists-need-to-report-on-how-they-work/420138/) on my initial findings.
+
+###SRCCON session
 
 At the end of July, I facilitated a session at [SRCCON](http://srccon.org/), the conference that OpenNews puts on. Some of this appears in my learnings writeup [here.](https://medium.com/@sandhya__k/my-learnings-from-srccon-2016-5b81fbd3ca2#.86kmdcbzp) The session was titled ["The good and bad of newsroom on-boarding processes and how can we make them better"](http://schedule.srccon.org/#_session-newsroom-onboarding) and all notes from the session are [here.](https://public.etherpad-mozilla.org/p/SRCCON2016-newsroom-onboarding
 )
@@ -68,7 +70,7 @@ A good point which was brought up in the session was general documentation and u
 
 Overall, the session went really well and gave me a good feel for how people actually feel about these processes (besides those who filled out my survey).
 
-**Next steps with survey and research**
+###Next steps with survey and research
 
 Throughout the summer and early fall, I conducted interviews (some on the phone and Skype). The rest was mostly through email since I'm currently located in Berlin on Central European Standard Time, so chatting with people in the United States required me to interview folks at night or on the weekend. I sent emails to people who filled out the survey and were okay with further questioning. 
 

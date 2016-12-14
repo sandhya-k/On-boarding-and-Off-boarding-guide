@@ -1,6 +1,6 @@
 #Chapter 4
 
-#Small Newsroom guidelines
+#Small Newsroom Guidelines
 
 Five percent of the respondents from the survey were from small newsrooms. Of the small newsrooms, only three newsrooms said they had some sort of process for on-boarding and off-boarding, even if it wasn't formalized. For this pool of newsrooms, there was two people that I was able to interview. As I noted at the beginning of the guide, I feel that calling out certain newsrooms for their issues is not actually helpful. I'd much rather talk about the issues in general and talk through some solutions for the newsrooms. 
 

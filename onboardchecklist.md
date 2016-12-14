@@ -1,6 +1,6 @@
-#On-boarding checklist
+#On-boarding Checklist
 
-**To-do:**
+###To-do:
 
 - [ ] Read through documentation. Notes can include questions the previous person had when they started and answers, source information, contact list (could be in a Word doc, Github repo, markdown file)
 - [ ] Write down questions. Don't be afraid to ask questions!
@@ -11,7 +11,7 @@
 - [ ] Set up computer/accounts (ex: Twitter, Facebook, Github, email, encryption) 
 
 
-**Documentation to read through:**
+###Documentation to read through:
 
 - [ ] Expectations for the job (what the previous person did and/or what the newsroom expects the person to work on. Examples include annual projects, attending certain meetings)
 - [ ] Order of how stories and/or pitches get filed and how they go through the editing process (ex: points of contact, timeline for stories) 
@@ -28,7 +28,7 @@
 - [ ] Ethics policies
 
 
-**Overview for the team:**
+###Overview for the team:
 
 - [ ] Explanation of who is on the team, what they do, a little bit about them, where they are based if they are remote
 - [ ] Company employee tree chart (if possible, include pictures of the people, so you can easily identify them)

@@ -1,8 +1,8 @@
-#Checklist for on-boarding and off-boarding for medium newsrooms 
+#Checklist for On-boarding and Off-boarding for Medium Newsrooms 
 
 I included a similar checklist in chapter two of this guide, but here's a more specific checklist for those medium-sized newsrooms. Everything on this list doesn't need to be included, but these are suggestions of what is helpful in other newsrooms. 
 
-**Checklist of things to do/have for on-boarding process**
+###Checklist of things to do/have for on-boarding process
 
 - [ ] Explanation of who is in the newsroom, what they do, a little bit about them, where they are based if they are remote. Include pictures of people so you can easily identify them. You may also add a note near key people for the position 
 - [ ] Detailed explanations of the roles on the team and how each work with one another
@@ -24,7 +24,7 @@ I included a similar checklist in chapter two of this guide, but here's a more s
 - [ ] Read over any social media guidelines & policies
 - [ ] Read over any ethics policies the newsroom has
 
-**Checklist of things to do/have for off-boarding process** 
+###Checklist of things to do/have for off-boarding process
 
 - [ ] Writeup documentation about unfinished projects, questions, known issues, and projects worked on
 - [ ] Have a few people on the team or in the newsroom read through these documentation and ask questions if there are any

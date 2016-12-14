@@ -1,6 +1,6 @@
 #Chapter 3 
 
-##Overall results of the survey and research
+##Overall Results of the Survey and my Research
 
 Eighty-six percent of respondents who filled out the survey said they did not have an on-boarding or off-boarding processes in their newsrooms. Those that did have processes noted that not everyone in the newsroom documents their work and those that do document their work are often the data/news applications teams.
 

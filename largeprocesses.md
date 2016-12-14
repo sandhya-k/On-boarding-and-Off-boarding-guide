@@ -1,4 +1,4 @@
-#How to deal with these processes for a large team 
+#How to Deal with these Processes on a Large Team 
 
 The biggest challenge for bigger newsrooms and especially for those with large teams is managing documentation when there is a lot of movement in and out of the newsroom. For reporters, this means not being the only one or two people on the team pushing for documentation. For editors, this means handling the updates of the documentation, especially when a new person starts and leaves the newsroom. 
 

@@ -1,4 +1,4 @@
-##Survey questions and timeframe 
+##Survey Questions and Timeframe 
 
 **Here are the questions asked in the survey:** 
 
@@ -47,7 +47,7 @@ Knight-Mozilla fellow Sandhya wants to hear about how your newsroom is dealing w
 
     Email:
 
-##Overview of survey process and timeline 
+##Overview of the Survey Process and Timeline 
 
 I sent out the survey on April 22, 2016. I closed the survey on September 12, 2016. I heard from 221 newsrooms and 247 unique individuals. A total of 289 people filled out the survey. I conducted 101 interviews with individuals who filled out the survey. Thirty of them were over Skype or over the phone. The other 71 were email. 
 

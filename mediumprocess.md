@@ -1,4 +1,4 @@
-#How to deal with these processes for a medium team 
+#How to Deal with these Processes on a Medium Team 
 
 Of the medium newsrooms I spoke to, it was surprising that only six had some sort of process for on-boarding and off-boarding, even if it wasn't formalized. The biggest challenge the reporters said was getting their editors to sign off on letting them make time to write up documentation. For editors, the issue wasn't so much time, but worrying about teams repeating the same things over and over again by writing separate documentation. 
 

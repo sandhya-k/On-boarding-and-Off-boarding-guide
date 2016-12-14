@@ -1,4 +1,4 @@
-#Why this research matters
+#Why this Research Matters
 
 ####My goal: to challenge the way we think about these processes and find what works for some newsrooms, what clearly doesn’t work in others and share my findings in one place.
 
