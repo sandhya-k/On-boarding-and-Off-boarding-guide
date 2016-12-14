@@ -1,20 +1,20 @@
 #Results
 
-Breakdown of survey respondents (total of 247 individuals): 
+###Breakdown of survey respondents (total of 247 individuals): 
 
 Reporters (includes anyone with correspondent, producer, reporter, journalist in their title and includes: investigative, food reporters, beat reporters, senior reporters): 107
-
-Video/Photo: 3
-
-Social Media: 20
-
-Graphics: 11
 
 News applications developers/data reporters: 55
 
 Editors (includes copy editors, photo editors and section editors): 45
 
+Social Media: 20
+
+Graphics: 11
+
 Management (includes managing editors, editors-in-chief, etc.): 6
+
+Video/Photography: 3
 
 ---
 For the categorization of what is considered a "small" newsroom versus a "large" newsroom, I used the Online News Association Awards categories found [here.](https://journalists.org/awards/online-journalism-awards-rules-eligibility/)
@@ -28,6 +28,7 @@ They are as follows:
 Here's a list of some of the newsrooms that responded and their categories:
 
 **Small**:
+
 * KPCC- Southern California
 * Center for Public Integrity 
 * The Marshall Project
@@ -38,6 +39,7 @@ Here's a list of some of the newsrooms that responded and their categories:
 
 
 **Medium**:
+
 * St. Paul Pioneer Press
 * Tampa Bay Times
 * The Palm Beach Post
@@ -51,6 +53,7 @@ Here's a list of some of the newsrooms that responded and their categories:
 * Reveal 
 
 **Large**:
+
 * The Associated Press
 * The Huffington Post
 * The New York Times

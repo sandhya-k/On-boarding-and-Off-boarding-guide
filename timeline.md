@@ -2,7 +2,7 @@
 
 I sent out the survey on April 22, 2016. I closed the survey on September 12, 2016. As of October 31, I’ve heard from 221 newsrooms and 247 unique individuals. A total of 289 people filled out the survey, which contained nine main questions and four “if-then” follow-up questions. I conducted 101 interviews with individuals who filled out the survey. Thirty of them were over Skype or over the phone. The other 71 were email.  
 
-At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: Journalists of Color & News Nerdery and then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 35 newsrooms and then posted it on Twitter and Facebook. I also talked about it on the [OpenNews community calls](https://opennews.org/what/community/calls/) on Thursdays.
+At the beginning of the survey, I sent it to two of the Slack groups that I'm a part of: [Journalists of Color](http://journalistsofcolor.us/) & [News Nerdery](http://newsnerdery.org/) and then I sent emails to my mentors and friends to have them pass the survey along. I also sent it directly to about 35 newsrooms and then posted it on Twitter and Facebook. I also talked about it on the [OpenNews community calls](https://opennews.org/what/community/calls/) on Thursdays.
 
 In July, I talked to Elite Truong from Poynter about the research I was doing and she wrote up a [piece](http://www.poynter.org/2016/why-journalists-need-to-report-on-how-they-work/420138/) on my initial findings.
 

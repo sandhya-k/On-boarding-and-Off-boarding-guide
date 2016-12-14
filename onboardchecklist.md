@@ -36,7 +36,7 @@
 - [ ] Company employee tree chart (if possible, include pictures of the people, so you can easily identify them)
 - [ ] Spend some time on the company website looking through what the company does
 - [ ] Newsroom map (where sections are, bathrooms, kitchen, etc.) 
-- [ ] Helpful tips about the newsroom and processes (ex: these can include a number of things from meetings that one should attend to tips about CMS glitches to what's the best way to set up a meeting)
+- [ ] Helpful tips about the newsroom and processes (ex: meetings that one should attend, tips about CMS glitches, what's the best way to set up a meeting, who to contact if you need batteries or other supplies)
 - [ ] Tips on the city that the newsroom is in (ex: nearby lunch places, buses, trains, etc.) 
 - [ ] If a person is working remote: how do you support their needs? Talk through how they can be included and how being remote is different than being in the newsroom
 

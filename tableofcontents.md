@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [Title page](README.md)
-* [Why I did this research?](chapter1.md)
+* [Why did I do this research?](chapter1.md)
     * [Overview of background and why I did this research](overview.md)
     * [Questions asked in the survey and timeframe and overview of process](questions.md)
 * [What is on-boarding or off-boarding?](chapter2.md)
