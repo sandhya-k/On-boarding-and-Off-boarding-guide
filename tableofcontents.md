@@ -1,6 +1,5 @@
 # Table of Contents
 
-## What's in this guide
 * [Title page](README.md)
 * [Why I did this research?](chapter1.md)
     * [Overview of background and why I did this research](overview.md)
