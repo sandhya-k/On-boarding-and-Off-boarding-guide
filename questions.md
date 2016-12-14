@@ -29,11 +29,11 @@ Knight-Mozilla fellow Sandhya wants to hear about how your newsroom is dealing w
 
 6. On-boarding: What about when a new person begins in the newsroom: are there documents that they receive (other than from HR)?
 
-*If no, here are the questions that follow:*
+	*If no, here are the questions that follow:*
 
- 1. If you don't have a policy in place, I'd still like to hear from you. 
+ 	1. If you don't have a policy in place, I'd still like to hear from you. 
 
- 2. What would you ideally like to see included in this policy?
+ 	2. What would you ideally like to see included in this policy?
 
 7. Anything else you'd like to share that I haven't covered? 
 
