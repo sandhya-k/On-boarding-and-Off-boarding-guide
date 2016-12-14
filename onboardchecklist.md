@@ -1,7 +1,5 @@
 #On-boarding checklist
 
-**Checklist of things to do/have for on-boarding process**
-
 **To-do:**
 
 - [ ] Read through documentation. Notes can include questions the previous person had when they started and answers, source information, contact list (could be in a Word doc, Github repo, markdown file)

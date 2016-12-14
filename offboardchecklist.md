@@ -1,7 +1,5 @@
 #Off-boarding checklist
 
-**Checklist of things to do/have for off-boarding process** 
-
 **To document:**
 
 - [ ] Writeup documentation about unfinished projects, questions, known issues, and projects worked on
