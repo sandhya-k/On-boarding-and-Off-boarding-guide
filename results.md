@@ -113,7 +113,7 @@ The main issue is documentation is not a priority for reporters or editors when 
 
 There needs to be multiple people taking part, working together, because then documentation and thinking about these processes will become the standard. If these few people leave the newsroom all at once or soon after one another, all of the institutional knowledge will be lost. This is why it's really important for there to be a few people on each team in the newsroom who are responsible for taking the charge in asking people to document and go through others documents. Each individual should document their own work and then work with the others on the team to think through things they may have missed documenting and need to add in. If more people write documentation and think about these processes, there will be a higher incentive for others to read them, update them and continue to write them. 
 
-**Takeaway**: Listen to how other people work. Keep an open mind about how documentation can help you and your team. Sharing your information will make your team work better. 
+**Takeaway:** Listen to how other people work. Keep an open mind about how documentation can help you and your team. Sharing your information will make your team work better. 
 
 Another common sore-point for documentation is sharing information that could be considered unique. Some reporters responded in the survey that they did not want to share sources or notes on stories because then the skills they have which they thought were unique won't be so unique any more. While it's understandable that some sources you develop and may not want to share with the rest of the newsroom, it would be helpful to explain how you found certain sources and how you learned what you did to get where you are. Chances are, you heard a tip from another reporter in another newsroom or even in the same newsroom and learned from them. Why not share that in your documentation? If you challenge yourself to think about things differently and show people how you get to where you did, maybe you can learn new ways of going about those things. Maybe you're not requesting data in the best way or chatting with a source correctly. If you share your notes, maybe another colleague can help think this through and think of a new way of going about asking for the data or a question for your source. 
 
@@ -123,7 +123,7 @@ Many of the respondents in the survey mentioned it would be nice if more people 
 
 Some of the respondents who said they did have documentation on their teams said they had issues with bad documentation, meaning people didn't put in full effort or really complete the documentation. This is why iteration is really important. Once you have some documentation written (you can even take the checklist I've provided and make your own), you should ask others to read it and ask questions and comment on it. Then you go back to those comments, answer them and continue writing documentation. Another key point to remember is jargon while writing documentation: stop using it! Make sure you include an explanation of what a term may mean so the next person doesn't have to look up the acronym or jargon that you wrote in the notes. 
 
-For more on how to build a culture of documentation, Vox has put together a great guide on [this] (https://storytelling.voxmedia.com/2016/7/29/12299564/on-building-a-culture-of-documentation). 
+For more on how to build a culture of documentation, Vox has put together a great guide on [this](https://storytelling.voxmedia.com/2016/7/29/12299564/on-building-a-culture-of-documentation). 
 
 **Takeaway:** Just start writing documentation. 
 
@@ -132,11 +132,9 @@ The biggest question people asked in the survey is how you even start documentin
 A good way of getting started is by writing down some notes at the end of the week. Then thoroughly document these notes every two weeks on Friday evening. 
 Don't just document things on a project-by-project basis. 
 
-*Bonus* Bringing new people in and having people leave doesn't have to be a nightmare. 
+**Bonus:** Bringing new people in and having people leave doesn't have to be a nightmare. 
 
 Have a checklist of the documents you need to go through. Think about setting up a wiki or a central place for people to go to read when they start and update before they leave. Think about making an email template to send to new hires. This can be especially helpful when you have a large batch of new hires throughout the newsroom. There's always the HR emails and the note from the newsroom about a new person starting, but it would be nice for the new person not to receive 15 emails on their first day. Just one email with all the links and documents in one place would ideal.
-
--
 
 In general, newsrooms have a lot of processes and documentation is not a key priority for some newsrooms. The survey showed that is not just an issue in one newsroom in the US or Germany or India, but a global issue. Comparing a "small" newsroom to a "medium" newsroom also doesn't make much sense, since the priorities and missions are different. See chapters four through six for more information for each newsroom. Additionally, here is the [Source](https://source.opennews.org/en-US/articles/what-i-learned-researching-newsroom-onboarding-and/) writeup on the project. 
 

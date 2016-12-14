@@ -2,8 +2,6 @@
 
 ##Overall results of the survey and research
 
-###TLDR: 
-
 Eighty-six percent of respondents who filled out the survey said they did not have an on-boarding or off-boarding processes in their newsrooms. Those that did have processes noted that not everyone in the newsroom documents their work and those that do document their work are often the data/news applications teams.
 
 There were common themes that emerged from the survey/interviews which I've bullet-pointed below. The main issue is documentation is not a priority for reporters or editors when they are filing stories on a regular basis, so when one person leaves, all the institutional knowledge they have goes out the door with them. In many newsrooms, there are one or two people on any given team that know the ins and outs of the team, but they rarely write down what they know. The reason? It's too tedious and there isn't enough time built into the day to address documentation and worrying about the legacy of the reporting/projects for future team members.

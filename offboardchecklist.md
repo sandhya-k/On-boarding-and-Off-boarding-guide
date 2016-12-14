@@ -15,4 +15,4 @@
 - [ ] Disable CMS access
 - [ ] Handoff of Google docs/shared documents
 - [ ] Office hours: people can stop by and ask questions about the position and/or projects
-- [ ]Exit interview with the team: what went wrong, what went well and time to answer any questions or walk through any documentation
+- [ ] Exit interview with the team: what went wrong, what went well and time to answer any questions or walk through any documentation

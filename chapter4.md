@@ -6,7 +6,7 @@ Five percent of the respondents from the survey were from small newsrooms. Of th
 
 In general, the issues with small newsrooms are the same as medium and large newsrooms as I pointed out in chapter three. For small newsrooms, the biggest issue with getting these processes put into place is time and general adoption of understanding why documentation is so important. 
 
-*A note about the categorization of newsrooms*
+**A note about the categorization of newsrooms:**
 
 For the categorization of what is considered a "small" newsroom versus a "large" newsroom, I used the Online News Association Awards categories found [here.](https://journalists.org/awards/online-journalism-awards-rules-eligibility/)
 

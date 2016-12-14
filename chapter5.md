@@ -6,7 +6,7 @@ Ten percent of the respondents from the survey were from medium newsrooms. Of th
 
 In general, the issues with medium newsrooms are basically the same as small and large newsrooms as I pointed out in chapter three. It's always time that's the biggest constraint. For medium newsrooms, the biggest issue with getting these processes put into place is getting started with documentation and how to manage all the documentation since the newsroom is bigger and has some teams that will need very particular processes documented.
 
-*A note about the categorization of newsrooms*
+**A note about the categorization of newsrooms:**
 
 For the categorization of what is considered a "small" newsroom versus a "large" newsroom, I used the Online News Association Awards categories found [here.](https://journalists.org/awards/online-journalism-awards-rules-eligibility/)
 

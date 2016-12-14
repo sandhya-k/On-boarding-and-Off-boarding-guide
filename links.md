@@ -5,14 +5,14 @@ When I began this research, I looked for any links related to on-boarding and of
 Here are some places that included the most thorough information on their on-boarding process. These can be used as a guide to what can be included in addition to my guide. 
 
 - INN
-	- [Github repo of documentation] (https://github.com/INN/docs)
-	- [Github repo of on-boarding information] (https://github.com/INN/docs/blob/master/how-we-work/tools.md)
-	- [On-boarding guide] (https://github.com/INN/docs/blob/master/staffing/onboarding/sample-onboarding-plan.md)
+	- [Github repo of documentation](https://github.com/INN/docs)
+	- [Github repo of on-boarding information](https://github.com/INN/docs/blob/master/how-we-work/tools.md)
+	- [On-boarding guide](https://github.com/INN/docs/blob/master/staffing/onboarding/sample-onboarding-plan.md)
 
 - 18F 
 	- [On-boarding documentation](https://github.com/18F/onboarding-documents/tree/master/Checklists)
 	- [Writeup of how on-boarding checklists helped them](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
-	- [Overview of the Bot they use for on-boarding] (https://18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/)
+	- [Overview of the Bot they use for on-boarding](https://18f.gsa.gov/2015/12/15/how-bot-named-dolores-landingham-transformed-18fs-onboarding/)
 
 - Vox
 	- [How to build a culture of documentation](https://storytelling.voxmedia.com/2016/7/29/12299564/on-building-a-culture-of-documentation)
