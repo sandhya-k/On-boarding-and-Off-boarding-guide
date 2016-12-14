@@ -10,6 +10,7 @@ A special thanks to:
 - Ryan Pitts: for being my project manager on this project, making sure I stick to my deadlines and supporting me
 - Daniel Drepper: for giving me the support and time to work on this project while working on other investigations
 - Simon Jockers & Stefan Wehrmeyer: for helping me with the final touches of publishing
+- Dan Zajdband: for catching all the things I didn't catch in edits 
 - And all of the 2016 OpenNews fellows who are so awesome: Nicky Case, Pietro Passarelli, Lisa Charlotte Rost, Martin Shelton, Dan Zajdband, and Christine Zhang
 
 And you, for taking the time to read through this guide and thinking of new ways to deal with the problems we face with on-boarding and off-boarding in newsrooms.
