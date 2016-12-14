@@ -6,19 +6,20 @@ At the beginning of the survey, I sent it to two of the Slack groups that I'm a 
 
 In July, I talked to Elite Truong from Poynter about the research I was doing and she wrote up a [piece](http://www.poynter.org/2016/why-journalists-need-to-report-on-how-they-work/420138/) on my initial findings.
 
-At the end of July, I facilitated a session at SRCCON, the conference that OpenNews puts on. Some of this appears in my learnings writeup [here.](https://medium.com/@sandhya__k/my-learnings-from-srccon-2016-5b81fbd3ca2#.86kmdcbzp) The session was titled ["The good and bad of newsroom on-boarding processes and how can we make them better"](http://schedule.srccon.org/#_session-newsroom-onboarding) and all notes from the session are [here.](https://public.etherpad-mozilla.org/p/SRCCON2016-newsroom-onboarding
+At the end of July, I facilitated a session at [SRCCON](http://srccon.org/), the conference that OpenNews puts on. Some of this appears in my learnings writeup [here.](https://medium.com/@sandhya__k/my-learnings-from-srccon-2016-5b81fbd3ca2#.86kmdcbzp) The session was titled ["The good and bad of newsroom on-boarding processes and how can we make them better"](http://schedule.srccon.org/#_session-newsroom-onboarding) and all notes from the session are [here.](https://public.etherpad-mozilla.org/p/SRCCON2016-newsroom-onboarding
 )
 
 There were roughly 12 people in the room. 
 
 **Here's the breakdown**:
 
-* Beat reporters: 1 
-* Software engineer: 1 
+
 * Data reporters: 3
-* News apps developers: 1
 * Editors: 2
 * Director: 2 
+* Beat reporters: 1 
+* Software engineer: 1 
+* News apps developers: 1
 * Designer: 1
 * Project Managers:1 
 
@@ -34,7 +35,7 @@ There were roughly 12 people in the room.
 
 **The issues:** 
 
-- it’s really difficult to know how to write something so that someone else can read it later and understand it.
+- it’s really difficult to know how to write something so that someone else can read it later and understand it
 - how to deal with time constraints people have with writing documentation
 
 Both were key points made in the session which also came up in the survey responses. Many people pointed to these as the reason why even if documentation is written, it's just really hard to make sure that everyone on the team can understand it. 

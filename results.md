@@ -140,4 +140,4 @@ In general, newsrooms have a lot of processes and documentation is not a key pri
 
 ###Next Steps
 
-I hope this guide will serve as inspiration for those editors thinking of their goals for 2017 and what they can incorporate into their newsroom workflow. If you do end up using the checklist or incorporating a few things into your newsroom, I'd love to hear from you. My contact information can be found on the acknowledgements [page.](acknowledgements.md)
+I hope this guide will serve as inspiration for those editors thinking of their goals for 2017 and what they can incorporate into their newsroom workflow. If you do end up using the checklist or incorporating a few things into your newsroom, I'd love to hear from you. My contact information can be found on the acknowledgements [page.](https://sandhya-k.gitbooks.io/on-boarding-off-boarding-in-newsrooms/content/acknowledgements.html#about-sandhya)
