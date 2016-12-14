@@ -1,6 +1,4 @@
-#Links
-
-##**Links to some resources written about on-boarding**
+#Links to some resources written about on-boarding
 
 When I began this research, I looked for any links related to on-boarding and off-boarding processes in newsrooms. In the survey, many people I interviewed sent me their newsroom's files/guides if they had any, but because they contain information that may be private, I can't link to them. 
 

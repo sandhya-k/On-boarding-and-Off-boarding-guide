@@ -1,5 +1,5 @@
 #Why this research matters
--
+
 ####My goal: to challenge the way we think about these processes and find what works for some newsrooms, what clearly doesn’t work in others and share my findings in one place.
 
 
@@ -25,4 +25,4 @@ Many of the respondents to the survey said documentation issues are often a root
 
 If even just one person on every team in the newsroom wrote down an outline of the questions they have, known issues, and the processes that they are aware of, I'm sure that there would be fewer pointless meetings and repetition of the same scenarios over and over again.
 
-I hope that by the end of this guide, you'll begin to start thinking about implementing some sort of process in your newsroom, even if it's just beginning with a simple Word Doc of the information you’ve learned on the job. And if you end up using this work in your newsroom, I would love to hear about it. *See the acknowledgements(LINK HERE) for my contact information.*
+I hope that by the end of this guide, you'll begin to start thinking about implementing some sort of process in your newsroom, even if it's just beginning with a simple Word Doc of the information you’ve learned on the job. And if you end up using this work in your newsroom, I would love to hear about it. *See the [acknowledgements](acknowledgements.md) for my contact information.*
