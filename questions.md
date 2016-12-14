@@ -2,7 +2,7 @@
 
 **Here are the questions asked in the survey:** 
 
-Knight-Mozilla OpenNews fellow Sandhya wants to hear about how your newsroom is dealing with institutional knowledge that is lost when a person leaves your newsroom. This information will be used to think further about how we can make these processes more efficient. You can either answer these questions about your current newsroom or a prior newsroom. Thanks for your help in advance!
+Knight-Mozilla fellow Sandhya wants to hear about how your newsroom is dealing with institutional knowledge that is lost when a person leaves your newsroom. This information will be used to think further about how we can make these processes more efficient. You can either answer these questions about your current newsroom or a prior newsroom. Thanks for your help in advance!
 
 1. Is the newsroom your... 
 	- prior 
