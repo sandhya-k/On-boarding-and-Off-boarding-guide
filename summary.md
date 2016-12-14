@@ -11,7 +11,7 @@
     * [Research written by others on on-boarding in newsrooms](links.md)
 * [Overall results of my research](chapter3.md)
     * [Timeline of my project and details of the interviews and research](timeline.md)
-    * [Full survey results\(including breakdown of newsrooms,key takeaways,next steps\)](results.md)
+    * [Full survey results (including breakdown of newsrooms,key takeaways,next steps)](results.md)
 * [Small Newsroom](chapter4.md)
     * [What I found in my research](smallchallenges.md)
     * [How to deal with these processes with a 1 person or two person team within a small newsroom  and implementing these ideas](smallmotivation.md)
