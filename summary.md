@@ -3,8 +3,8 @@
 ## What's in this guide
 * [Title page](README.md)
 * [Table of Contents](tableofcontents.md)
-* [Why Did I Do This research?](chapter1.md)
-    * [Why this Research Matters?](overview.md)
+* [Why Did I Do this Research](chapter1.md)
+    * [Why this Research Matters](overview.md)
     * [Questions Asked in the Survey and Timeline](questions.md)
 * [What is On-boarding or Off-boarding?](chapter2.md)
     * [Example On-boarding Checklist](onboardchecklist.md)
