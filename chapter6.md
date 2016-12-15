@@ -2,7 +2,7 @@
 
 #Large Newsroom Guidelines
 
-Eighty-five percent of the respondents from the survey were from large newsrooms. Of the large newsrooms, 80 percent of newsrooms said they had some sort of process for on-boarding and off-boarding, even if it wasn't formalized.
+Eighty-five percent of the respondents from the survey were from large newsrooms. Of the large newsrooms, 20 percent of newsrooms said they had some sort of process for on-boarding and off-boarding, even if it wasn't formalized.
 
 In general, the issues with large newsrooms are basically the same as small and medium newsrooms as I pointed out in chapter three. It's always time that's the biggest constraint. For large newsrooms, the biggest issue is managing the documentation, especially with larger teams and getting everyone to actually write documentation and not just a select one or two people on each team. 
 
