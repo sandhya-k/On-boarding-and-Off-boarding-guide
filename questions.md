@@ -1,4 +1,4 @@
-##Survey Questions and Timeframe 
+##Survey Questions and Timeline
 
 **Here are the questions asked in the survey:** 
 
