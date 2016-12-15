@@ -29,7 +29,7 @@ In general, documents should live in a central location. A good place for this w
 
 ##Off-boarding 
 
-Similar to on-boarding, this process can differ by newsroom and teams depending on their size. In general, it is important that the person who leaves the newsroom documents major projects they worked on and goes through the documents they started with and adds their comments and questions to these documents. For off-boarding, it would also be nice to have an exit interview with the team. This can be in a formal meeting to talk through what went well, what went wrong and will also give the team time to ask any questions that are lingering. 
+Similar to on-boarding, this process can differ by newsroom and teams depending on their size. In general, it is important that the person who leaves the newsroom documents major projects they worked on. They should also go through the documents they started with and add their comments and questions to these documents. For off-boarding, it would also be nice to have an exit interview with the team. This can be in a formal meeting to talk through what went well, what went wrong and will also give the team time to ask any questions that are lingering. Ideally, the process would begin in the month before the person leaves.
 
 For daily or breaking news reporters, this can include writing up notes about sources they regularly contact, the process for filing stories and the process for getting video or photos taken for their stories and any notes about the job (for ex: expectations or other information that the next person should know). 
 
