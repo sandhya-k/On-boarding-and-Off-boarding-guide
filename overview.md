@@ -25,4 +25,6 @@ Many of the respondents to the survey said documentation issues are often a root
 
 Even if just one person on every team in every newsroom wrote down an outline of the questions they have, known issues, and the processes that they are aware of, I'm sure that there would be fewer pointless meetings and repetition of the same scenarios over and over again.
 
+In general, you may notice this guide will focus on documentation for on-boarding and off-boarding processes. In order for these processes to really work, people need to get better at documentation. People can only be properly acquainted with a job if they have thorough documentation and help from their colleagues. 
+
 I hope that by the end of this guide, you'll begin to start thinking about implementing some sort of process in your newsroom, even if it's just beginning with a simple Word Doc of the information you’ve learned on the job. And if you end up using this work in your newsroom, I would love to hear about it. *See the [acknowledgements](https://sandhya-k.gitbooks.io/on-boarding-off-boarding-in-newsrooms/content/acknowledgements.html#about-sandhya) for my contact information.*
