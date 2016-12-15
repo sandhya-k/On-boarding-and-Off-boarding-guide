@@ -2,7 +2,7 @@
 
 ###Breakdown of survey respondents (total of 247 individuals): 
 
-Reporters (includes anyone with correspondent, producer, reporter, journalist in their title and includes: investigative, food reporters, beat reporters, senior reporters): 107
+Reporters (includes anyone with correspondent, producer, reporter, journalist in their title and includes: investigative, beat reporters, senior reporters): 107
 
 News applications developers/data reporters: 55
 
