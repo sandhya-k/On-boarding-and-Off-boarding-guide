@@ -1,6 +1,6 @@
 #Chapter 1
 
-##Why Did I Do This Research?
+##Why Did I Do this Research?
 
 Newsrooms don't do a very good job with documentation. So when people start a job, they're often left without the resources they need to understand their role in the newsroom. And when they leave the newsroom, they take all their knowledge with them. We need better examples of how we can deal with the loss of institutional knowledge. This guide will help newsrooms think about their processes, what they are doing well and could be doing better. It'll include real-world examples from survey respondents as well as a checklist for newsrooms of all sizes (small, medium, large). 
 
