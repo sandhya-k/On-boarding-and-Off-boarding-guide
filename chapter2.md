@@ -23,9 +23,9 @@ This documentation/processes can also be used when someone is brought in tempora
 
 Documenting these processes can also help with thinking through the weaknesses of the newsroom. If you have an on-boarding process and people feel acquainted with the flow of the newsroom, then you know that your documentation is thorough. If you have a process, but people struggle with reading through the documents and it's a huge pain to get people to actually write down things, then maybe it's time to rethink your strategies. 
 
-Another recommendation that was made which isn't necessarily something that one might not think of is city recommendations. When a person moves to a new city for their job, it can be hard to navigate around the city and find good lunch places or have a good understanding of the layout of the area surrounding the office. An easy thing to do for this would be to make a Google map and drop pins on places that the team or newsroom often goes to for lunch and some important transportation points (ex: train or bus). 
+Another recommendation that was made which isn't necessarily something that one might think of is city recommendations. When a person moves to a new city for their job, it can be hard to navigate around the city and find good lunch places or have a good understanding of the layout of the area surrounding the office. An easy thing to do for this would be to make a Google map and drop pins on places that the team or newsroom often goes to for lunch and some important transportation points (ex: train or bus). 
 
-In general, documents should live in a central location. A good place for this would be a newsroom internal Wiki or a folder on a central server. In some cases, such as CMS training or other newsroom processes that people need to get trained on, it might be helpful to have documentation with screenshots of what the screen in the CMS or other software looks like in every step of the process or to have a video to train people. 
+In general, documents should live in a central location. A good place for this would be a newsroom internal Wiki or a folder on a central server. In some cases, such as CMS training or other newsroom processes that people need to get trained on, it might be helpful to have documentation with screenshots of what the screen in the CMS or other software looks like in every step of the process. Alternatively, one may also have a video to train people. 
 
 ##Off-boarding 
 
@@ -41,8 +41,8 @@ For developers/graphics reporters/data reporters, this process can include docum
 
 - People should be documenting their work as they go, so things don't pile up and forgotten.
 
-- If you're working on a bigger project, have someone who knows what's going on, so if you fall sick or are out of the office, they can pick up where you left off. Some people refer to this as the "bus factor" (in other words, document your projects well enough in case you get hit by a bus). 
+- If you're working on a bigger project, have someone who knows what's going on. If you fall sick or are out of the office, they can pick up where you left off. Some people refer to this as the "bus factor" (in other words, document your projects well enough in case you get hit by a bus). 
 
 - If you have a question, write it down. When you learn the answer to that question, write that down too. 
 
-- For sources, write down any information that you know about the source or a public records officer, for example, if they can only be reached via phone or if they answer quicker by email. This can be helpful for yourself if you forget and for the next person in your position. I also would recommend writing down any personal information you learn about the person: for example, if they have a dog or children or went on a vacation. This can be helpful when you're following up via email or calling them to get information or need to set up an interview.
+- For sources, write down any information that you know about the source or a public records officer. For example, if they can only be reached via phone or if they answer quicker by email. This can be helpful for yourself and for the next person in your position. I also would recommend writing down any personal information you learn about the person: for example, if they have a dog or children or went on a vacation. This can be helpful when you're following up via email or calling them to get information or need to set up an interview.
